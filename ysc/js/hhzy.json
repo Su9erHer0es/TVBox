@@ -3,21 +3,13 @@
    "spider": "./lib/hhzy.jar",
 "lives": [    
     {
-      "name": "TV",
+      "name": "ZB",
       "type": 0,
-      "url": "./lib/zhibo.txt",
+      "url": "./lib/ZB.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "live",
-      "type": 0,
-      "url": "./lib/TV.txt",
-       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    }，    
     {
       "name": "MTV",
       "type": 0,
