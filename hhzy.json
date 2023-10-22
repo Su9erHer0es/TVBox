@@ -1,6 +1,6 @@
 {
- "wallpaper":"Su9erHer0es自用",
-   "spider": "./lib/hhzy.jar",
+"wallpaper":"Su9erHer0es自用",
+"spider": "./lib/hhzy.jar",
 "lives": [    
     {
       "name": "ZB",
@@ -14,7 +14,7 @@
       "name": "MTV",
       "type": 0,
       "url": "./lib/MTV.txt",
-       "playerType": 1,
+      "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
