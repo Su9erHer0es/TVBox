@@ -1,8 +1,12 @@
 {
 "sites":[
 
-{"key":"xml_火狐","name":"火狐┃资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":1,"categories":},  
+{"key":"xml_火狐","name":"火狐┃资源","type":1,
+  "api":"https://hhzyapi.com/api.php/provide/vod/",
+  "searchable":1,
+  "quickSearch":0,
+  "filterable":1,
+  "categories":},  
 
 ]
 }
-
