@@ -1,11 +1,11 @@
 {
  "wallpaper":"Su9erHer0es自用",
-   "spider": ".ysc/lib/hhzy.jar",
+   "spider": "./lib/hhzy.jar",
 "lives": [    
     {
       "name": "ZB",
       "type": 0,
-      "url": ".ysc/lib/ZB.txt",
+      "url": "./lib/ZB.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -13,7 +13,7 @@
     {
       "name": "MTV",
       "type": 0,
-      "url": ".ysc/lib/MTV.txt",
+      "url": "./lib/MTV.txt",
        "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
