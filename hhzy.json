@@ -1,0 +1,39 @@
+{
+ "wallpaper":"Su9erHer0es自用",
+   "spider": "./lib/hhzy.jar",
+"lives": [    
+    {
+      "name": "ZB",
+      "type": 0,
+      "url": "./lib/ZB.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }，    
+    {
+      "name": "MTV",
+      "type": 0,
+      "url": "./lib/MTV.txt",
+       "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+ "sites": [
+   {
+  "key": "xml_豪华",
+  "name": "豪华资源",
+  "type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list"，
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1,
+  "categories":["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","犯罪片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","伦理片"]
+   },
+ ]
+  "ads": [
+    "wan.51img1.com",
+    "iqiyi.hbuioo.com",
+    "vip.ffzyad.com",
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+  ]
+}
