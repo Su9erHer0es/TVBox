@@ -1,11 +1,11 @@
 {
 "wallpaper":"Su9erHer0es自用",
-"spider": "./lib/hhzy.jar",
+"spider": "https://ghproxy.net/https://raw.githubusercontent.com/Su9erHer0es/TVBox/main/lib/hhzy.jar",
 "lives": [    
     {
       "name": "ZB",
       "type": 0,
-      "url": "./lib/ZB.txt",
+      "url": "https://ghproxy.net/https://github.com/Su9erHer0es/TVBox/blob/main/lib/ZB.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -13,7 +13,7 @@
     {
       "name": "MTV",
       "type": 0,
-      "url": "./lib/MTV.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/Su9erHer0es/TVBox/main/lib/MTV.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
