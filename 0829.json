@@ -4,7 +4,7 @@
       "key": "点播源",
       "name": "豪华资源",
       "type": 0,
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=videolist",
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -44,9 +44,9 @@
       "group": "自定义",
       "channels": [
         {
-          "name": "直播源",
+          "name": "live",
           "urls": [
-            "https://ghproxy.net/https://raw.githubusercontent.com/Su9erHer0es/TVBox/main/live.txt"
+            "https://raw.githubusercontent.com/Su9erHer0es/TVBox/main/live.txt"
           ]
         }
       ]
@@ -292,5 +292,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Su9erHer0es/TVBox/main/0829.jar"
+  "spider": "https://raw.githubusercontent.com/Su9erHer0es/TVBox/main/0829.jar"
 }
