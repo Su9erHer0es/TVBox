@@ -1,6 +1,7 @@
 {
   "sites": [
     {
+      "key": "xml",      
       "name": "豪华资源",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=xml",
