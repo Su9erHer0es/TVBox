@@ -1,8 +1,7 @@
 {
   "sites": [
     {
-      "key": "xml",
-      "name": "豪华资源",
+      "name": "豪华资源"，
       "type": 1,
       "api": "https://haohuazy.com/api.php/provide/vod/?ac=",
       "searchable": 1,
