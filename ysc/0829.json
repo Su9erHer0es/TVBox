@@ -3,7 +3,7 @@
     {
       "key": "kxys",
       "name": "氪星影视",
-      "type": "mix",
+      "type": 1,
       "api": "https://v.z9c0.top/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
@@ -43,12 +43,18 @@
   ],
   "lives": [
     {
-      "group": "直播v4",
+      "group": "氪星直播",
       "channels": [
         {
-          "name": "氪星直播",
+          "name": "氪星v4",
           "urls": [
-            "https://gh.z9c0.top/https://raw.githubusercontent.com/Su9erHer0es/TVBox/refs/heads/main/ysc/live.txt"
+            "https://gh.z9c0.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
+          ]
+        },
+        {
+          "name": "氪星v6",
+          "urls": [
+            "https://gh.z9c0.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u"
           ]
         }
       ]
