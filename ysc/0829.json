@@ -3,11 +3,12 @@
     {
       "key": "kxys",
       "name": "氪星影视",
-      "type": 1,
+      "type": "mix",
       "api": "https://v.z9c0.top/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext": "氪星影视-免费无广",
       "categories": [
         "日剧",
         "马泰剧",
