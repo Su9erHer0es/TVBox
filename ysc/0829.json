@@ -42,11 +42,12 @@
   ],
   "lives": [
     {
+      "group": "直播v4",
       "channels": [
         {
           "name": "氪星直播",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC56OWMwLnRvcC9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vU3U5ZXJIZXIwZXMvVFZCb3gvcmVmcy9oZWFkcy9tYWluL3lzYy9saXZlLnR4dA=="
+            "https://gh.z9c0.top/https://raw.githubusercontent.com/Su9erHer0es/TVBox/refs/heads/main/ysc/live.txt"
           ]
         }
       ]
