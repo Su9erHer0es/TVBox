@@ -1,75 +1,42 @@
 {
   "sites": [
     {
-      "key": "hhzy",
-      "name": "🌐好花资源(分类版)",
+      "key": "kxys",
+      "name": "氪星影视",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
-      "playUrl": "",
+      "api": "https://v.z9c0.top/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "flag": ["hhm3u8", "hhyun"],
-        "classes": [
-          {"type_id":1,"type_name":"电视剧"},
-          {"type_id":2,"type_name":"电影"},
-          {"type_id":3,"type_name":"欧美剧"},
-          {"type_id":4,"type_name":"香港剧"},
-          {"type_id":5,"type_name":"韩剧"},
-          {"type_id":6,"type_name":"日剧"},
-          {"type_id":7,"type_name":"马泰剧"},
-          {"type_id":8,"type_name":"伦理片"},
-          {"type_id":9,"type_name":"动作片"},
-          {"type_id":10,"type_name":"爱情片"},
-          {"type_id":11,"type_name":"喜剧片"},
-          {"type_id":12,"type_name":"科幻片"},
-          {"type_id":13,"type_name":"恐怖片"},
-          {"type_id":14,"type_name":"剧情片"},
-          {"type_id":15,"type_name":"战争片"},
-          {"type_id":16,"type_name":"记录片"},
-          {"type_id":17,"type_name":"动漫"},
-          {"type_id":20,"type_name":"内地剧"},
-          {"type_id":23,"type_name":"动画片"},
-          {"type_id":24,"type_name":"中国动漫"},
-          {"type_id":25,"type_name":"日本动漫"},
-          {"type_id":26,"type_name":"欧美动漫"},
-          {"type_id":27,"type_name":"综艺"},
-          {"type_id":28,"type_name":"台湾剧"},
-          {"type_id":30,"type_name":"大陆综艺"},
-          {"type_id":31,"type_name":"日韩综艺"},
-          {"type_id":32,"type_name":"港台综艺"},
-          {"type_id":33,"type_name":"欧美综艺"},
-          {"type_id":34,"type_name":"灾难片"},
-          {"type_id":35,"type_name":"悬疑片"},
-          {"type_id":36,"type_name":"犯罪片"},
-          {"type_id":37,"type_name":"奇幻片"},
-          {"type_id":38,"type_name":"短剧"}
-        ]
-      }
+      "categories": [
+        "日剧",
+        "马泰剧",
+        "内地剧",
+        "欧美剧",
+        "香港剧",
+        "韩剧",
+        "台湾剧",
+        "恐怖片",
+        "动画片",
+        "剧情片",
+        "战争片",
+        "动作片",
+        "记录片",
+        "爱情片",
+        "喜剧片",
+        "科幻片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "短剧",
+      ]
     }
-  ],
-  "lives": [],
-  "parses": [
-    {
-      "name": "聚合解析",
-      "type": 3,
-      "url": "Demo"
-    }
-  ],
-  "flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "mgtv",
-    "letv",
-    "sohu",
-    "pptv",
-    "bilibili",
-    "wasu",
-    "xigua",
-    "hhm3u8",
-    "hhyun"
-  ],
-  "wallpaper": "https://picsum.photos/1280/720/?blur=5"
+  ]
 }
