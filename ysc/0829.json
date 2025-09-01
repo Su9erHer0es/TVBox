@@ -39,5 +39,17 @@
         "伦理片"
       ]
     }
+  ],
+  "lives": [
+    {
+      "channels": [
+        {
+          "name": "氪星直播",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC56OWMwLnRvcC9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vU3U5ZXJIZXIwZXMvVFZCb3gvcmVmcy9oZWFkcy9tYWluL3lzYy9saXZlLnR4dA=="
+          ]
+        }
+      ]
+    }
   ]
 }
