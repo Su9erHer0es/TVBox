@@ -42,22 +42,7 @@
     }
   ],
   "lives": [
-    {
-      "group": "氪星直播",
-      "channels": [
-        {
-          "name": "氪星v4",
-          "urls": [
-            "https://gh.z9c0.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
-          ]
-        },
-        {
-          "name": "氪星v6",
-          "urls": [
-            "https://gh.z9c0.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u"
-          ]
-        }
-      ]
-    }
+{"name":"氪星v4","type":0,"url":"https://gh.z9c0.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u","playerType":2},
+{"name":"氪星v6","type":0,"url":"https://gh.z9c0.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u","playerType":2}
   ]
 }
