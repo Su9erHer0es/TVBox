@@ -5,7 +5,7 @@
       "key": "kxys",
       "name": "氪星影视",
       "type": 1,
-      "api": "https://v.z9c0.top/api.php/provide/vod/?ac=list",
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=videolist",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
