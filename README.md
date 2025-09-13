@@ -1,2 +1,2 @@
 # tvbox
-tvbox自用资源
+tvbox影视仓自用资源
